@@ -15,4 +15,5 @@
   <img src="https://i.ibb.co/YD303Wm/importf.png">
   <li>Scroll down and Click to Save</li>
   <img src="https://i.ibb.co/q7Sj4QN/save.png">
+  <li>Finish!</li>
 </ul>
